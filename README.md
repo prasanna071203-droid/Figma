@@ -35,8 +35,8 @@ Figma
 
 ## CODE:
 ~~~
-HOME PAGE
 
+HOME PAGE
 <div style="width: 1080px; height: 1080px; position: relative; background: white"></div>
 <img style="width: 1080px; height: 1080px" src="https://via.placeholder.com/1080x1080" />
 <img style="width: 785px; height: 107px" src="https://via.placeholder.com/785x107" />
@@ -63,7 +63,6 @@ PAGE 2
 <div style="width: 255px; height: 52px; text-align: center; color: white; font-size: 40px; font-family: Inter; font-style: italic; font-weight: 700; letter-spacing: 1.60px; word-wrap: break-word">DESSERT</div>
 
 PAGE 3
-
 <div style="width: 1080px; height: 1080px; position: relative; background: white"></div>
 <img style="width: 1080px; height: 1080px" src="https://via.placeholder.com/1080x1080" />
 <img style="width: 785px; height: 107px" src="https://via.placeholder.com/785x107" />
@@ -84,8 +83,10 @@ PAGE 4
 <img style="width: 1080px; height: 1080px" src="https://via.placeholder.com/1080x1080" />
 <div style="width: 440px; height: 80px; text-align: center; color: black; font-size: 64px; font-family: Inter; font-style: italic; font-weight: 700; letter-spacing: 2.56px; word-wrap: break-word">Thank You For <br/>Registration</div>
 
+~~~
+
 ## OUTPUT:
-Screenshot 2025-12-18 142320.png
+![alt text](<Screenshot 2025-12-18 142858.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
