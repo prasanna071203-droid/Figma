@@ -85,7 +85,7 @@ PAGE 4
 <div style="width: 440px; height: 80px; text-align: center; color: black; font-size: 64px; font-family: Inter; font-style: italic; font-weight: 700; letter-spacing: 2.56px; word-wrap: break-word">Thank You For <br/>Registration</div>
 
 ## OUTPUT:
-figma.png
+Screenshot 2025-12-18 142320.png
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
